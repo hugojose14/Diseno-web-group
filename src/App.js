@@ -15,7 +15,7 @@ const App = () => {
         </div>
       </div>
 
-      <AwesomeSlider className="carousel">
+      <AwesomeSlider organicArrows={false} buttons={true} className="carousel">
         <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
         <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
         <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>

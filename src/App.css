@@ -53,7 +53,10 @@ p{
   font-weight: bolder;
   padding: 0%;
 }
-
+.parent{
+  width: 100%;
+  height: 50vh;
+}
 .carousel{
   color:aliceblue;
   background-color: #a1bc31;
