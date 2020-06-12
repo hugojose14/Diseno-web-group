@@ -5,22 +5,22 @@ import "react-awesome-slider/dist/styles.css";
 
 const App = () => {
   return (
-    <div class="container main">
-      <div className="row homi">
-        <div className="container-fluid homi">
-          <p className="text1">Bienvenido</p>
-          <p className="text2">a la</p>
-          <p className="text3">Agexda</p>
-          <hr />
+    <div className="container mainp">
+      <div className="container main">
+        <div className="row homi">
+          <div className="container-fluid homi">
+            <img className="edit" src={process.env.PUBLIC_URL + "./images/agexda1.png"} alt="lutherking2" />
+          </div>
         </div>
+
+        <AwesomeSlider organicArrows={false} buttons={true} className="carousel">
+          <div className="pequena"> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
+          <div className="pequena"> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
+          <div className="pequena"> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
+
+        </AwesomeSlider>
       </div>
 
-      <AwesomeSlider organicArrows={false} buttons={true} className="carousel">
-        <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
-        <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
-        <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
-
-      </AwesomeSlider>
     </div>
   );
 };
