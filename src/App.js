@@ -5,16 +5,21 @@ import "react-awesome-slider/dist/styles.css";
 
 const App = () => {
   return (
-    <div class="container">
-      <h3>
-        Bienvenido a la <span>Agexda</span>
-      </h3>
-      <hr />
+    <div class="container main">
+      <div className="row homi">
+        <div className="container-fluid homi">
+          <p className="text1">Bienvenido</p>
+          <p className="text2">a la</p>
+          <p className="text3">Agexda</p>
+          <hr />
+        </div>
+      </div>
 
-      <AwesomeSlider class="carousel">
-        <div>1</div>
-        <div>2</div>
-        <div>3</div>
+      <AwesomeSlider className="carousel">
+        <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
+        <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
+        <div> <img className="pequena" src={process.env.PUBLIC_URL + "./images/agexda.png"} alt="lutherking" /></div>
+
       </AwesomeSlider>
     </div>
   );

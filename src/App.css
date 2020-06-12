@@ -2,3 +2,70 @@
   margin: 0px;
   padding: 0px;
 }
+
+@font-face{
+  font-family: Gotham;
+  src: url("./font-family/gotham-maisfontes/gotham.otf");
+}
+.main{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 420px;
+  width: 100%;
+  max-height:100%;
+  height: 100vh;
+  overflow: auto;
+  background: #a1bc31;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+p{
+  margin: 0%;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  font-family: Gotham;
+}
+
+
+.homi{
+  width: 100%;
+  padding: 0%;
+  margin: 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.text1,.text2,.text3{
+  padding: 0%;
+  margin: 0%;
+  color:aliceblue
+}
+
+.text1,.text2{
+  font-size: 25px;
+}
+.text3{
+  font-size: 50px;
+  font-weight: bolder;
+  padding: 0%;
+}
+
+.carousel{
+  color:aliceblue;
+  background-color: #a1bc31;
+}
+img.pequena{
+  width: 100%;
+  background: transparent;
+}
+
+hr {
+  height: 5px;
+  width: 30%;
+  background-color: aliceblue;
+  border-radius: 4px;
+}
