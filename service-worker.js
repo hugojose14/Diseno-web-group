@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Diseno-web-group/precache-manifest.bb017b1fc6b1f196dd120551d97b0354.js"
+  "/Diseno-web-group/precache-manifest.d19007ea139c4c0204ff230de358ebf3.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Diseno-web-group/static/css/main.e79ebd9f.chunk.css",
-    "main.js": "/Diseno-web-group/static/js/main.f01ab90d.chunk.js",
-    "main.js.map": "/Diseno-web-group/static/js/main.f01ab90d.chunk.js.map",
+    "main.js": "/Diseno-web-group/static/js/main.a2484312.chunk.js",
+    "main.js.map": "/Diseno-web-group/static/js/main.a2484312.chunk.js.map",
     "runtime-main.js": "/Diseno-web-group/static/js/runtime-main.9f2a1dd1.js",
     "runtime-main.js.map": "/Diseno-web-group/static/js/runtime-main.9f2a1dd1.js.map",
     "static/css/2.8f118048.chunk.css": "/Diseno-web-group/static/css/2.8f118048.chunk.css",
     "static/js/2.34d360d9.chunk.js": "/Diseno-web-group/static/js/2.34d360d9.chunk.js",
     "static/js/2.34d360d9.chunk.js.map": "/Diseno-web-group/static/js/2.34d360d9.chunk.js.map",
     "index.html": "/Diseno-web-group/index.html",
-    "precache-manifest.bb017b1fc6b1f196dd120551d97b0354.js": "/Diseno-web-group/precache-manifest.bb017b1fc6b1f196dd120551d97b0354.js",
+    "precache-manifest.d19007ea139c4c0204ff230de358ebf3.js": "/Diseno-web-group/precache-manifest.d19007ea139c4c0204ff230de358ebf3.js",
     "service-worker.js": "/Diseno-web-group/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/Diseno-web-group/static/css/2.8f118048.chunk.css.map",
     "static/css/main.e79ebd9f.chunk.css.map": "/Diseno-web-group/static/css/main.e79ebd9f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.8f118048.chunk.css",
     "static/js/2.34d360d9.chunk.js",
     "static/css/main.e79ebd9f.chunk.css",
-    "static/js/main.f01ab90d.chunk.js"
+    "static/js/main.a2484312.chunk.js"
   ]
 }

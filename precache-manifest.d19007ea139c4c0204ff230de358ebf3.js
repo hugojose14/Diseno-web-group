@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65b3d7e55dcd9f9c4c4f28532642d63d",
+    "revision": "a1f9545f2a2e05f006c0341ee6df3159",
     "url": "/Diseno-web-group/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Diseno-web-group/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "ef75310a996de77a6c83",
+    "revision": "87d62dabd2f7b869bcc3",
     "url": "/Diseno-web-group/static/css/main.e79ebd9f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Diseno-web-group/static/js/2.34d360d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef75310a996de77a6c83",
-    "url": "/Diseno-web-group/static/js/main.f01ab90d.chunk.js"
+    "revision": "87d62dabd2f7b869bcc3",
+    "url": "/Diseno-web-group/static/js/main.a2484312.chunk.js"
   },
   {
     "revision": "c5b7e4d1d37d986ed3f2",
